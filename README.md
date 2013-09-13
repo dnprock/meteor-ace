@@ -1,3 +1,17 @@
+## Instruction for including in meteor
+
+Add this to Meteor.startup()
+
+```
+$.getScript('/packages/ace/lib/ace/src/ace.js');
+```
+
+And head tag:
+
+```
+<script type="text/javascript" src="/packages/ace/lib/ace/src/ace.js">
+```
+
 # Meteor Ace Editor
 
 Ace editor  repackaged for Meteor. [http://ace.ajax.org/](http://ace.ajax.org/)
