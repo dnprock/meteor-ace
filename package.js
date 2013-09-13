@@ -102,7 +102,7 @@ Package.on_use(function (api) {
 	        'lib/ace/src/worker-javascript.js',
 		'lib/ace/src/worker-json.js',
 	        'lib/ace/src/worker-xquery.js'
-		],'client'
+		],'client',{isAsset:true}
 	        );
 	//		api.add_files('common.js', 'client');
     });
