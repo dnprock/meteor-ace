@@ -7,6 +7,7 @@ Package.on_use(function (api) {
                 'lib/ace/src/ace.js',
 		'lib/ace/src/ext-static_highlight.js',
 		'lib/ace/src/ext-textarea.js',
+                'lib/ace/src/ext-searchbox.js',
 		'lib/ace/src/keybinding-emacs.js',
 		'lib/ace/src/keybinding-vim.js',
 		'lib/ace/src/mode-abap.js',
