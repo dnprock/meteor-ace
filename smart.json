@@ -3,6 +3,6 @@
   "description": "Ace editor repackaged for Meteor",
   "homepage": "https://github.com/Jay-Oh-eN/meteor-ace",
   "author": "Jonathan Dinu <jondinu@gmail.com> (http://jdinu.com)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "git": "https://github.com/Jay-Oh-eN/meteor-ace.git"
 }
