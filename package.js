@@ -1,6 +1,7 @@
 Package.describe({
-	summary: "Ace editor repackaged for Meteor"
-	    });
+  summary: "Ace editor repackaged for Meteor",
+  version: "1.0.1"
+});
 
 Package.on_use(function (api) {
         api.add_files([
@@ -81,7 +82,7 @@ Package.on_use(function (api) {
                 'lib/ace/src/theme-eclipse.js',
 		'lib/ace/src/theme-github.js',
                 'lib/ace/src/theme-idle_fingers.js',
-                'lib/ace/src/theme-kr.js',
+                'lib/ace/src/theme-kr_theme.js',
 		'lib/ace/src/theme-merbivore.js',
                 'lib/ace/src/theme-merbivore_soft.js',
                 'lib/ace/src/theme-mono_industrial.js',
